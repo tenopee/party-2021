@@ -13,8 +13,8 @@
 
 <script>
 import PartyInformationArea from './components/PartyInformationArea'
-import CommonFooter from './components/commonFooter'
-import CommonHeader from './components/commonHeader'
+import CommonFooter from './components/CommonFooter'
+import CommonHeader from './components/CommonHeader'
 import ParticipantsArea from './components/ParticipantsArea'
 import TalkGroup from './components/TalkGroup'
 import IeContents from './components/IeContents'
